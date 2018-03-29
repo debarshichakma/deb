@@ -35,6 +35,8 @@ public class arraylist1 {
         System.out.println(al.indexOf("E"));
 		
 		
+		
+		
 
 	}
 
